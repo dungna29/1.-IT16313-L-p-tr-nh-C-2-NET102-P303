@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text;
 
 namespace BAI_1._0_ONTAP_CSHARP1_CRUD
 {
@@ -10,7 +11,13 @@ namespace BAI_1._0_ONTAP_CSHARP1_CRUD
 
         static void Main(string[] args)
         {
-            Console.WriteLine();
+            Console.OutputEncoding = Encoding.GetEncoding("UTF-8");
+            ServiceStudent service = new ServiceStudent();
+            do
+            {
+                service.getlstSv();
+                service.findSinhVien();
+            } while (true);
         }
     }
 }

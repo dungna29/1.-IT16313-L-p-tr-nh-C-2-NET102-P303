@@ -10,25 +10,26 @@ namespace BAI_1._0_ONTAP_CSHARP1_CRUD
     {
         //Phần 1: Liệt kê tất cả các thuộc tính mà đối tượng phải có
         private int id;
-        private string name;
+        private string ten;
         private string sdt;
         private int gioiTinh;
 
         //Phần 2: Khởi tạo contructor không tham số gõ: ctor + tab
         public SinhVien()
         {
-            
+            //Console.WriteLine("Đây là text in ra từ contructor không tham số");
         }
-        //Nếu bạn nào dùng resharper ctorf + tab
+        
         /*
+         Nếu bạn nào dùng resharper ctorf + tab
          Đối với các bạn không cài resharper muốn gọi contructor có tham số:
             1. Chuột phải vào Class đối tượng chọn Quick Actions....
             2. Generate Contructor
          */
-        public SinhVien(int id1, string name, string sdt, int gioiTinh)
+        public SinhVien(int id1, string ten, string sdt, int gioiTinh)
         {
             id = id1;
-            this.name = name;
+            this.ten = ten;
             this.sdt = sdt;
             this.gioiTinh = gioiTinh;
         }
@@ -45,10 +46,10 @@ namespace BAI_1._0_ONTAP_CSHARP1_CRUD
             set => id = value;
         }
 
-        public string Name
+        public string Ten
         {
-            get => name;
-            set => name = value;
+            get => ten;
+            set => ten = value;
         }
 
         public string Sdt
@@ -64,5 +65,9 @@ namespace BAI_1._0_ONTAP_CSHARP1_CRUD
         }
 
         //Phần 4: Triển khai cá phương thức của đối tượng
+        public void inRaManHinh()
+        {
+            Console.WriteLine("Id: {0} | Tên: {1} | Sdt: {2} | Giới  Tính: {3}",id,Ten,sdt,gioiTinh == 1?"Nam":"Nữ");
+        }
     }
 }

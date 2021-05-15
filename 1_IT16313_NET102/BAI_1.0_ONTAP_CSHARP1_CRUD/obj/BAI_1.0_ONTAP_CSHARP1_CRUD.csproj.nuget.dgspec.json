@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Google Driver Dungna29FPT\\8. Demo\\Demo C#1\\SM21_Block1\\1.-IT16313-L-p-tr-nh-C-2-NET102-P303\\1_IT16313_NET102\\BAI_1.0_ONTAP_CSHARP1_CRUD\\BAI_1.0_ONTAP_CSHARP1_CRUD.csproj": {}
+    "F:\\Google Driver Dungna29FPT\\8. Demo\\Demo C#2\\SM21_Block1\\1.-IT16313-L-p-tr-nh-C-2-NET102-P303\\1_IT16313_NET102\\BAI_1.0_ONTAP_CSHARP1_CRUD\\BAI_1.0_ONTAP_CSHARP1_CRUD.csproj": {}
   },
   "projects": {
-    "F:\\Google Driver Dungna29FPT\\8. Demo\\Demo C#1\\SM21_Block1\\1.-IT16313-L-p-tr-nh-C-2-NET102-P303\\1_IT16313_NET102\\BAI_1.0_ONTAP_CSHARP1_CRUD\\BAI_1.0_ONTAP_CSHARP1_CRUD.csproj": {
+    "F:\\Google Driver Dungna29FPT\\8. Demo\\Demo C#2\\SM21_Block1\\1.-IT16313-L-p-tr-nh-C-2-NET102-P303\\1_IT16313_NET102\\BAI_1.0_ONTAP_CSHARP1_CRUD\\BAI_1.0_ONTAP_CSHARP1_CRUD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Google Driver Dungna29FPT\\8. Demo\\Demo C#1\\SM21_Block1\\1.-IT16313-L-p-tr-nh-C-2-NET102-P303\\1_IT16313_NET102\\BAI_1.0_ONTAP_CSHARP1_CRUD\\BAI_1.0_ONTAP_CSHARP1_CRUD.csproj",
+        "projectUniqueName": "F:\\Google Driver Dungna29FPT\\8. Demo\\Demo C#2\\SM21_Block1\\1.-IT16313-L-p-tr-nh-C-2-NET102-P303\\1_IT16313_NET102\\BAI_1.0_ONTAP_CSHARP1_CRUD\\BAI_1.0_ONTAP_CSHARP1_CRUD.csproj",
         "projectName": "BAI_1.0_ONTAP_CSHARP1_CRUD",
-        "projectPath": "F:\\Google Driver Dungna29FPT\\8. Demo\\Demo C#1\\SM21_Block1\\1.-IT16313-L-p-tr-nh-C-2-NET102-P303\\1_IT16313_NET102\\BAI_1.0_ONTAP_CSHARP1_CRUD\\BAI_1.0_ONTAP_CSHARP1_CRUD.csproj",
+        "projectPath": "F:\\Google Driver Dungna29FPT\\8. Demo\\Demo C#2\\SM21_Block1\\1.-IT16313-L-p-tr-nh-C-2-NET102-P303\\1_IT16313_NET102\\BAI_1.0_ONTAP_CSHARP1_CRUD\\BAI_1.0_ONTAP_CSHARP1_CRUD.csproj",
         "packagesPath": "C:\\Users\\DungNAPC\\.nuget\\packages\\",
-        "outputPath": "F:\\Google Driver Dungna29FPT\\8. Demo\\Demo C#1\\SM21_Block1\\1.-IT16313-L-p-tr-nh-C-2-NET102-P303\\1_IT16313_NET102\\BAI_1.0_ONTAP_CSHARP1_CRUD\\obj\\",
+        "outputPath": "F:\\Google Driver Dungna29FPT\\8. Demo\\Demo C#2\\SM21_Block1\\1.-IT16313-L-p-tr-nh-C-2-NET102-P303\\1_IT16313_NET102\\BAI_1.0_ONTAP_CSHARP1_CRUD\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DungNAPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
