@@ -36,6 +36,7 @@ namespace BAI_1._2_DELEGATE
         #endregion
         static void Main(string[] args)
         {
+            var temp = 5;
             Console.OutputEncoding = Encoding.GetEncoding("UTF-8");
             #region Phần 1: Khởi tạo delegate null
             Console.WriteLine("========Phần 1: Khởi tạo delegate null========");
