@@ -36,7 +36,7 @@ namespace BAI_1._2_DELEGATE
         #endregion
         static void Main(string[] args)
         {
-            var temp = 5;
+          
             Console.OutputEncoding = Encoding.GetEncoding("UTF-8");
             #region Phần 1: Khởi tạo delegate null
             Console.WriteLine("========Phần 1: Khởi tạo delegate null========");
@@ -50,6 +50,45 @@ namespace BAI_1._2_DELEGATE
 
 
             #endregion
+
+            #region Phần 2: Khởi tạo đối tượng Delegate
+            Console.WriteLine("========Phần 2: Khởi tạo đối tượng Delegate========");
+            ShowMessage showMessage2 = new ShowMessage(Info1);//Tham chiếu phương thức Info1 thông qua contructor
+            showMessage2("Chào các bạn POLY .NET học DELEGATE");
+            #endregion
+
+            #region Phần 3: C# Multicast Delegates
+            Console.WriteLine("========Phần 3: C# Multicast Delegates========");
+            ShowMessage showMessage3 = new ShowMessage(Info1);
+            ShowMessage showMessage4 = new ShowMessage(Info2);
+            ShowMessage multicast;
+            multicast = showMessage3 + showMessage4;
+            multicast = multicast + showMessage;//cách viết này tương ứng cách +=
+            multicast += showMessage3;
+            multicast += showMessage4;
+            multicast("Các bạn đang học multicast");
+            #endregion
+
+            #region Phần 4: Delegate Callback
+            Console.WriteLine("========Phần 4: Delegate Callback========");
+            DelegateCallback delegateCallback = new DelegateCallback(showMess);
+            callBackMethod(delegateCallback);
+
+            #endregion
         }
+        #region Phần 4: Delegate Callback
+        public delegate void DelegateCallback(string mess);
+        public static void showMess(string mess)
+        {
+            Console.WriteLine("Thông báo: " + mess);
+        }
+        public static void callBackMethod(DelegateCallback delegateCallback)
+        {
+            Console.WriteLine("Mời bạn nhập thông báo: ");
+            var mess = Console.ReadLine();
+            delegateCallback(mess);
+        }
+
+        #endregion
     }
 }
