@@ -13,3 +13,4 @@ F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\SM21_Block1\1.-IT16313-L-p-tr-nh-C
 F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\SM21_Block1\1.-IT16313-L-p-tr-nh-C-2-NET102-P303\1_IT16313_NET102\BAI_1.3_DELEGATE_ACTION_FUNC\obj\Debug\net5.0\ref\BAI_1.3_DELEGATE_ACTION_FUNC.dll
 F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\SM21_Block1\1.-IT16313-L-p-tr-nh-C-2-NET102-P303\1_IT16313_NET102\BAI_1.3_DELEGATE_ACTION_FUNC\obj\Debug\net5.0\BAI_1.3_DELEGATE_ACTION_FUNC.pdb
 F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\SM21_Block1\1.-IT16313-L-p-tr-nh-C-2-NET102-P303\1_IT16313_NET102\BAI_1.3_DELEGATE_ACTION_FUNC\obj\Debug\net5.0\BAI_1.3_DELEGATE_ACTION_FUNC.genruntimeconfig.cache
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\SM21_Block1\1.-IT16313-L-p-tr-nh-C-2-NET102-P303\1_IT16313_NET102\BAI_1.3_DELEGATE_ACTION_FUNC\obj\Debug\net5.0\BAI_1.3_DELEGATE_ACTION_FUNC.csprojAssemblyReference.cache

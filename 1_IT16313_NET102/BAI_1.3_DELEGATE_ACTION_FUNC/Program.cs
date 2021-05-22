@@ -48,7 +48,20 @@ namespace BAI_1._3_DELEGATE_ACTION_FUNC
             Console.ResetColor();
         }
 
+        static int TinhTong(int a, int b)
+        {
+            return a + b;
+        }
+
+        static int TinhHieu(int a, int b) => a - b;
+
+        static bool IsUpperCase(string a)
+        {
+            
+            return a.Equals(a.ToUpper());//Kiểm tra xem string truyền vào là chữ viết hoa hay không
+        }
         #endregion
+
         static void Main(string[] args)
         {
             Console.OutputEncoding = Encoding.GetEncoding("UTF-8");
@@ -61,6 +74,23 @@ namespace BAI_1._3_DELEGATE_ACTION_FUNC
 
             action2 = Info1;
             action2?.Invoke("Đây là phương thức Info1");
+            #endregion
+
+            #region Phần 2:Func khai báo với phương thức có kiểu trả về
+            Console.WriteLine("==== Phần 2:Func khai báo với phương thức có kiểu trả về ====");
+            //Tham số cuối sẽ là kiểu trả về của phương thức
+            Func<int, int, int> func;// tương đương như delegate int TenDelegate(int a,int b);
+            func = TinhTong;
+            Console.WriteLine("Tổng là: " + func.Invoke(5,55));
+
+            Func<string, double, string> func1;// tương đương như delegate string TenDelegate(string a,double b);
+            #endregion
+
+            #region Phần 3: Predicate khai báo với phương thức có kiểu trả về true false
+            Console.WriteLine("==== Phần 3: Predicate khai báo với phương thức có kiểu trả về true false ====");
+            Predicate<string> predicate;// tương đương như delegate bool TenDelegate(string a); 
+            predicate = IsUpperCase;
+            Console.WriteLine("Kết quả kiểm tra viết hoa = " + predicate("fpt"));//= false
 
             #endregion
         }
