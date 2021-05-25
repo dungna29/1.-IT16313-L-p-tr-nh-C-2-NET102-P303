@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BAI_1.7_EXCEPTION/1.0.0": {
+        "runtime": {
+          "BAI_1.7_EXCEPTION.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BAI_1.7_EXCEPTION/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

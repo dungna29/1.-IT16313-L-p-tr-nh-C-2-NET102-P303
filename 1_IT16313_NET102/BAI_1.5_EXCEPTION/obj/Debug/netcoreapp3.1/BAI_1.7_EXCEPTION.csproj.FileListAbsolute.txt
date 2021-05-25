@@ -1,0 +1,13 @@
+D:\Google Driver Dungna29\8. Demo\Demo C#2\SM21_Block1\1.-IT16313-L-p-tr-nh-C-2-NET102-P303\1_IT16313_NET102\BAI_1.5_EXCEPTION\bin\Debug\netcoreapp3.1\BAI_1.7_EXCEPTION.exe
+D:\Google Driver Dungna29\8. Demo\Demo C#2\SM21_Block1\1.-IT16313-L-p-tr-nh-C-2-NET102-P303\1_IT16313_NET102\BAI_1.5_EXCEPTION\bin\Debug\netcoreapp3.1\BAI_1.7_EXCEPTION.deps.json
+D:\Google Driver Dungna29\8. Demo\Demo C#2\SM21_Block1\1.-IT16313-L-p-tr-nh-C-2-NET102-P303\1_IT16313_NET102\BAI_1.5_EXCEPTION\bin\Debug\netcoreapp3.1\BAI_1.7_EXCEPTION.runtimeconfig.json
+D:\Google Driver Dungna29\8. Demo\Demo C#2\SM21_Block1\1.-IT16313-L-p-tr-nh-C-2-NET102-P303\1_IT16313_NET102\BAI_1.5_EXCEPTION\bin\Debug\netcoreapp3.1\BAI_1.7_EXCEPTION.runtimeconfig.dev.json
+D:\Google Driver Dungna29\8. Demo\Demo C#2\SM21_Block1\1.-IT16313-L-p-tr-nh-C-2-NET102-P303\1_IT16313_NET102\BAI_1.5_EXCEPTION\bin\Debug\netcoreapp3.1\BAI_1.7_EXCEPTION.dll
+D:\Google Driver Dungna29\8. Demo\Demo C#2\SM21_Block1\1.-IT16313-L-p-tr-nh-C-2-NET102-P303\1_IT16313_NET102\BAI_1.5_EXCEPTION\bin\Debug\netcoreapp3.1\BAI_1.7_EXCEPTION.pdb
+D:\Google Driver Dungna29\8. Demo\Demo C#2\SM21_Block1\1.-IT16313-L-p-tr-nh-C-2-NET102-P303\1_IT16313_NET102\BAI_1.5_EXCEPTION\obj\Debug\netcoreapp3.1\BAI_1.7_EXCEPTION.csprojAssemblyReference.cache
+D:\Google Driver Dungna29\8. Demo\Demo C#2\SM21_Block1\1.-IT16313-L-p-tr-nh-C-2-NET102-P303\1_IT16313_NET102\BAI_1.5_EXCEPTION\obj\Debug\netcoreapp3.1\BAI_1.7_EXCEPTION.AssemblyInfoInputs.cache
+D:\Google Driver Dungna29\8. Demo\Demo C#2\SM21_Block1\1.-IT16313-L-p-tr-nh-C-2-NET102-P303\1_IT16313_NET102\BAI_1.5_EXCEPTION\obj\Debug\netcoreapp3.1\BAI_1.7_EXCEPTION.AssemblyInfo.cs
+D:\Google Driver Dungna29\8. Demo\Demo C#2\SM21_Block1\1.-IT16313-L-p-tr-nh-C-2-NET102-P303\1_IT16313_NET102\BAI_1.5_EXCEPTION\obj\Debug\netcoreapp3.1\BAI_1.7_EXCEPTION.csproj.CoreCompileInputs.cache
+D:\Google Driver Dungna29\8. Demo\Demo C#2\SM21_Block1\1.-IT16313-L-p-tr-nh-C-2-NET102-P303\1_IT16313_NET102\BAI_1.5_EXCEPTION\obj\Debug\netcoreapp3.1\BAI_1.7_EXCEPTION.dll
+D:\Google Driver Dungna29\8. Demo\Demo C#2\SM21_Block1\1.-IT16313-L-p-tr-nh-C-2-NET102-P303\1_IT16313_NET102\BAI_1.5_EXCEPTION\obj\Debug\netcoreapp3.1\BAI_1.7_EXCEPTION.pdb
+D:\Google Driver Dungna29\8. Demo\Demo C#2\SM21_Block1\1.-IT16313-L-p-tr-nh-C-2-NET102-P303\1_IT16313_NET102\BAI_1.5_EXCEPTION\obj\Debug\netcoreapp3.1\BAI_1.7_EXCEPTION.genruntimeconfig.cache
