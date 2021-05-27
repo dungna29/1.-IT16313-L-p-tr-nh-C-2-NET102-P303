@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 
 namespace BAI_1._7_EXCEPTION
 {
@@ -44,7 +45,7 @@ namespace BAI_1._7_EXCEPTION
             Console.WriteLine("99 : 0 =" +c );
             Console.WriteLine("Chương trình kết thúc");
         }
-        //Ví dụ 1: 
+        //Ví dụ 2: Khi sử dụng Try Catch
         public static void vidu2()
         {
             try
@@ -70,23 +71,45 @@ namespace BAI_1._7_EXCEPTION
             }
             catch (Exception E)
             {
+
             }
 
             Console.WriteLine("Chương trình kết thúc");
         }
 
-        /*
-         * Tạo 1 project mới giải bài tập CRUD đối tượng Tivi(id - int,maTv - string,TenTv - string,LoaiTv - string)
-         *      1 - Bao gồm các chức năng sau THÊM,SỬA,XÓA, TÌM KIẾM đối tượng Tivi.
-         *      2 - Tìm kiếm đối tượng tivi gần đúng theo tên chẳng hạn sony sẽ xuất ra các sản phẩm bắt đầu bằng chữ sony.
-         * - Các bạn luyện code lại bài này và thầy muốn các bạn sử dụng ngay try catch trong quá trình code không đợi code xong các bạn mới triển khai.
-         * Hoàn thành bài tập hạn nộp trên Google Class 13h00 25/05
-         * Không hoàn thành bài sẽ trừ 1 điểm vào LAB 1 2 3 sắp tới khi lấy
-         */
+        //Ví dụ 3: Sử dụng Finally
+        public static void ViDu3()
+        {
+
+            string path = @"F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\SM21_Block1\1.-IT16313-L-p-tr-nh-C-2-NET102-P303\1_IT16313_NET102\BAI_1.5_EXCEPTION\Text\dungna.txt";
+            StreamReader sr = new StreamReader(path);
+            try
+            {
+                string text;
+                while ((text = sr.ReadLine()) != null)
+                {
+                    Console.WriteLine(text);
+                }
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e);
+
+            }
+            finally
+            {
+                Console.WriteLine("finally");
+                sr.Close();
+            }
+            Console.WriteLine("Kết thúc ví dụ");
+
+
+        }
+        
 
         static void Main(string[] args)
         {
-           vidu2();
+            ViDu3();
         }
     }
 }
