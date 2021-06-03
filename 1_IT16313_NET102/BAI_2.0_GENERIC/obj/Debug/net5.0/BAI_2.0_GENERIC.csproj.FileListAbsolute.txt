@@ -1,0 +1,15 @@
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\SM21_Block1\1.-IT16313-L-p-tr-nh-C-2-NET102-P303\1_IT16313_NET102\BAI_2.0_GENERIC\bin\Debug\net5.0\BAI_2.0_GENERIC.exe
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\SM21_Block1\1.-IT16313-L-p-tr-nh-C-2-NET102-P303\1_IT16313_NET102\BAI_2.0_GENERIC\bin\Debug\net5.0\BAI_2.0_GENERIC.deps.json
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\SM21_Block1\1.-IT16313-L-p-tr-nh-C-2-NET102-P303\1_IT16313_NET102\BAI_2.0_GENERIC\bin\Debug\net5.0\BAI_2.0_GENERIC.runtimeconfig.json
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\SM21_Block1\1.-IT16313-L-p-tr-nh-C-2-NET102-P303\1_IT16313_NET102\BAI_2.0_GENERIC\bin\Debug\net5.0\BAI_2.0_GENERIC.runtimeconfig.dev.json
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\SM21_Block1\1.-IT16313-L-p-tr-nh-C-2-NET102-P303\1_IT16313_NET102\BAI_2.0_GENERIC\bin\Debug\net5.0\BAI_2.0_GENERIC.dll
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\SM21_Block1\1.-IT16313-L-p-tr-nh-C-2-NET102-P303\1_IT16313_NET102\BAI_2.0_GENERIC\bin\Debug\net5.0\ref\BAI_2.0_GENERIC.dll
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\SM21_Block1\1.-IT16313-L-p-tr-nh-C-2-NET102-P303\1_IT16313_NET102\BAI_2.0_GENERIC\bin\Debug\net5.0\BAI_2.0_GENERIC.pdb
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\SM21_Block1\1.-IT16313-L-p-tr-nh-C-2-NET102-P303\1_IT16313_NET102\BAI_2.0_GENERIC\obj\Debug\net5.0\BAI_2.0_GENERIC.GeneratedMSBuildEditorConfig.editorconfig
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\SM21_Block1\1.-IT16313-L-p-tr-nh-C-2-NET102-P303\1_IT16313_NET102\BAI_2.0_GENERIC\obj\Debug\net5.0\BAI_2.0_GENERIC.AssemblyInfoInputs.cache
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\SM21_Block1\1.-IT16313-L-p-tr-nh-C-2-NET102-P303\1_IT16313_NET102\BAI_2.0_GENERIC\obj\Debug\net5.0\BAI_2.0_GENERIC.AssemblyInfo.cs
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\SM21_Block1\1.-IT16313-L-p-tr-nh-C-2-NET102-P303\1_IT16313_NET102\BAI_2.0_GENERIC\obj\Debug\net5.0\BAI_2.0_GENERIC.csproj.CoreCompileInputs.cache
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\SM21_Block1\1.-IT16313-L-p-tr-nh-C-2-NET102-P303\1_IT16313_NET102\BAI_2.0_GENERIC\obj\Debug\net5.0\BAI_2.0_GENERIC.dll
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\SM21_Block1\1.-IT16313-L-p-tr-nh-C-2-NET102-P303\1_IT16313_NET102\BAI_2.0_GENERIC\obj\Debug\net5.0\ref\BAI_2.0_GENERIC.dll
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\SM21_Block1\1.-IT16313-L-p-tr-nh-C-2-NET102-P303\1_IT16313_NET102\BAI_2.0_GENERIC\obj\Debug\net5.0\BAI_2.0_GENERIC.pdb
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\SM21_Block1\1.-IT16313-L-p-tr-nh-C-2-NET102-P303\1_IT16313_NET102\BAI_2.0_GENERIC\obj\Debug\net5.0\BAI_2.0_GENERIC.genruntimeconfig.cache
