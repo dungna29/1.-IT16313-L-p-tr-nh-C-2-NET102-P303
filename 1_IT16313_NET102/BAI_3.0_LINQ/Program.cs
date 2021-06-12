@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace BAI_3._0_LINQ
 {
@@ -33,7 +34,34 @@ namespace BAI_3._0_LINQ
         #endregion
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string[] arrName = { "Hoa", "Trang", "Dũng", "Long", "Mạnh", "Hoàng", "Tùng", "Lan" };
+            int[] arrNumber = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17 };
+
+            //Ví dụ 1: Lấy ra các tên người có từ 3 từ trở lên
+            var lstName3Tu1 = 
+                              (from a in arrName
+                              where a.Length > 3
+                              select a).ToList();
+            var lstName3Tu2 = arrName.Where(c =>c.Length > 3);//Sử dụng lamba
+            foreach (var x in lstName3Tu1)
+            {
+                Console.Write(x + " ");
+            }
+            //Ví dụ 2: Tạo ra 1 danh sach các số lẻ
+            var lstSole = 
+                from a in arrNumber
+                where a % 2 != 0
+                select a;
+
+            //Ví dụ 3: Sắp xếp
+            var lstOrderByAsc =
+                from a in arrNumber
+                orderby a // ascending 
+                select a;
+            var lstOrderByDes =
+                from a in arrNumber
+                orderby a descending 
+                select a;
         }
     }
 }
